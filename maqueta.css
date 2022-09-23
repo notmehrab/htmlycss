@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Nabla&display=swap');
+
+.title{
+    font-family: 'Nabla', cursive;
+    text-align: center;
+    font-size: auto;
+    height: 25%;
+    background-color: #00203FFF;
+    float: top;
+}
+.hobby {
+    background-color: #ADEFD1FF;
+    float: left;
+    width: 25%; 
+    height: 50%;
+}
+.img {
+    
+    float:left;
+    width: 50%; 
+    height: 50%;
+    
+
+}
+.quote {
+    background-color: #ADEFD1FF;
+    float: right;
+    width: 25%; 
+    height: 50%;
+}
+.foot {
+    background-color: #00203FFF;
+    float:left;
+    height: 25%;
+    width: 100%;
+    text-align: center;
+    
+
+}

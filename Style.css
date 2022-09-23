@@ -1,0 +1,12 @@
+img {
+    border: 10px solid red;
+    display: block;
+    margin-left: 20%;
+    margin-right: auto;
+    }
+body {
+    margin-left: 20%;
+    margin-right:20%;
+    background-color: rgb(39, 190, 183);
+}
+
